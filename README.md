@@ -1,5 +1,7 @@
 # Simple encryption helper
 
+![simple](https://user-images.githubusercontent.com/6902134/118377377-e49cbb80-b59a-11eb-8da6-5cdc9e5c5acc.gif)
+
 ## Why?
 Because why not?
 
